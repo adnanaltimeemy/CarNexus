@@ -1,0 +1,101 @@
+Customer_ID,Age_Group,Gender,Region_UK,Income_Bracket,Model_Purchased
+1,31-45,Male,London,£300k-£500k,Valhalla
+2,46-60,Female,London,£500k+,DBX
+3,60+,Female,Midlands,£200k-£300k,DB12
+4,60+,Other,Wales,£300k-£500k,DB12
+5,60+,Female,Wales,£300k-£500k,DB11
+6,18-30,Male,North England,£100k-£200k,DB12
+7,31-45,Other,Scotland,£300k-£500k,DBX
+8,18-30,Male,Scotland,£500k+,Vantage
+9,46-60,Male,Wales,£500k+,DB12
+10,60+,Other,London,£200k-£300k,Vantage
+11,31-45,Female,Scotland,£200k-£300k,Valhalla
+12,46-60,Male,London,£100k-£200k,DB11
+13,60+,Female,London,£100k-£200k,Valhalla
+14,60+,Female,Midlands,£500k+,DBX
+15,18-30,Male,Scotland,£300k-£500k,Valhalla
+16,18-30,Other,Midlands,£200k-£300k,DB12
+17,31-45,Female,Northern Ireland,£300k-£500k,Vantage
+18,46-60,Male,Wales,£500k+,DBX
+19,46-60,Male,North England,£300k-£500k,DBX
+20,46-60,Female,Wales,£500k+,Valhalla
+21,60+,Male,Midlands,£500k+,Vantage
+22,18-30,Other,Scotland,£500k+,DBX
+23,18-30,Female,Wales,£100k-£200k,Valhalla
+24,46-60,Male,Scotland,£100k-£200k,DB11
+25,18-30,Other,London,£300k-£500k,Vantage
+26,60+,Other,Scotland,£100k-£200k,Vantage
+27,18-30,Male,Northern Ireland,£100k-£200k,Vantage
+28,31-45,Other,North England,£100k-£200k,DB12
+29,18-30,Female,Northern Ireland,£100k-£200k,DBX
+30,60+,Female,North England,£300k-£500k,DB12
+31,18-30,Male,Wales,£500k+,Vantage
+32,60+,Female,Wales,£300k-£500k,DB12
+33,60+,Male,London,£100k-£200k,DB12
+34,18-30,Female,Scotland,£200k-£300k,Vantage
+35,46-60,Other,Wales,£200k-£300k,DB12
+36,46-60,Female,London,£500k+,Vantage
+37,18-30,Other,Scotland,£500k+,DBX
+38,46-60,Female,Scotland,£200k-£300k,Valhalla
+39,46-60,Other,North England,£300k-£500k,DB11
+40,60+,Male,London,£500k+,DBX
+41,31-45,Male,Midlands,£500k+,Vantage
+42,46-60,Male,Scotland,£500k+,Vantage
+43,31-45,Female,Midlands,£200k-£300k,Valhalla
+44,60+,Female,Wales,£100k-£200k,Vantage
+45,18-30,Female,South East,£500k+,DBX
+46,31-45,Other,Northern Ireland,£200k-£300k,DB12
+47,60+,Female,Midlands,£300k-£500k,DBX
+48,18-30,Female,South East,£300k-£500k,DB11
+49,31-45,Other,South East,£300k-£500k,Valhalla
+50,31-45,Other,Midlands,£300k-£500k,DBX
+51,31-45,Male,London,£200k-£300k,DBX
+52,46-60,Other,Midlands,£200k-£300k,DBX
+53,18-30,Female,London,£100k-£200k,DB12
+54,60+,Male,Scotland,£200k-£300k,Valhalla
+55,60+,Other,Midlands,£500k+,DB12
+56,18-30,Female,London,£300k-£500k,DB12
+57,18-30,Female,Northern Ireland,£200k-£300k,Vantage
+58,31-45,Female,Midlands,£500k+,DB12
+59,31-45,Male,London,£500k+,DB11
+60,60+,Other,Wales,£500k+,DB12
+61,31-45,Other,Midlands,£200k-£300k,Vantage
+62,60+,Male,Northern Ireland,£500k+,Vantage
+63,46-60,Other,London,£200k-£300k,DB11
+64,18-30,Female,Scotland,£100k-£200k,Valhalla
+65,18-30,Female,South East,£100k-£200k,Valhalla
+66,60+,Other,Midlands,£100k-£200k,DB12
+67,46-60,Other,South East,£100k-£200k,DB11
+68,18-30,Other,Scotland,£100k-£200k,Valhalla
+69,18-30,Male,Midlands,£100k-£200k,DBX
+70,46-60,Other,London,£200k-£300k,DB11
+71,60+,Other,Scotland,£100k-£200k,DBX
+72,46-60,Male,South East,£100k-£200k,DB12
+73,31-45,Male,Northern Ireland,£200k-£300k,Vantage
+74,31-45,Female,Midlands,£500k+,DBX
+75,31-45,Other,Northern Ireland,£200k-£300k,DB12
+76,60+,Male,North England,£500k+,Vantage
+77,60+,Male,London,£500k+,Valhalla
+78,31-45,Other,North England,£500k+,DB12
+79,46-60,Other,Wales,£200k-£300k,Vantage
+80,18-30,Other,South East,£500k+,DB12
+81,18-30,Male,Northern Ireland,£500k+,DB11
+82,18-30,Male,London,£100k-£200k,Valhalla
+83,46-60,Male,Northern Ireland,£300k-£500k,DB11
+84,60+,Female,South East,£100k-£200k,DB11
+85,60+,Female,London,£200k-£300k,DB12
+86,46-60,Female,Northern Ireland,£200k-£300k,DB12
+87,60+,Male,Midlands,£300k-£500k,Valhalla
+88,46-60,Other,North England,£300k-£500k,Valhalla
+89,46-60,Female,London,£500k+,DB11
+90,46-60,Male,Wales,£100k-£200k,Valhalla
+91,31-45,Female,Scotland,£500k+,Valhalla
+92,18-30,Other,London,£200k-£300k,Valhalla
+93,46-60,Male,North England,£300k-£500k,Valhalla
+94,46-60,Male,Wales,£300k-£500k,DB12
+95,60+,Other,North England,£100k-£200k,Vantage
+96,18-30,Male,Midlands,£200k-£300k,DB12
+97,31-45,Other,Midlands,£300k-£500k,Vantage
+98,60+,Other,Northern Ireland,£500k+,Vantage
+99,60+,Other,South East,£200k-£300k,Valhalla
+100,31-45,Other,Northern Ireland,£100k-£200k,DB12
