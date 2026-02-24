@@ -1,0 +1,20 @@
+# Create pagani_uk_sales.csv as a plain text CSV file
+
+file_path = "pagani_uk_sales.csv"
+
+data = [
+    "Year,Model,Units_Sold_UK,Average_Price_GBP",
+    "2018,Huayra Coupe,2,2000000",
+    "2019,Huayra Roadster,3,2300000",
+    "2020,Huayra BC,1,2500000",
+    "2021,Huayra Roadster BC,2,2800000",
+    "2022,Imola,1,4500000",
+    "2023,Utopia Coupe,2,2400000",
+    "2024,Utopia Roadster,1,2600000"
+]
+
+with open(file_path, "w") as file:
+    for line in data:
+        file.write(line + "\n")
+
+print("pagani_uk_sales.csv has been created.")
